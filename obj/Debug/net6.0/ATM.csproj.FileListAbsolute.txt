@@ -1,0 +1,45 @@
+F:\.net core\tamrin\ATM\bin\Debug\net6.0\ATM.exe
+F:\.net core\tamrin\ATM\bin\Debug\net6.0\ATM.deps.json
+F:\.net core\tamrin\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+F:\.net core\tamrin\ATM\bin\Debug\net6.0\ATM.dll
+F:\.net core\tamrin\ATM\bin\Debug\net6.0\ATM.pdb
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.dll
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\refint\ATM.dll
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.pdb
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+F:\.net core\tamrin\ATM\obj\Debug\net6.0\ref\ATM.dll
+C:\Users\naya\Desktop\کازخونه\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\naya\Desktop\کازخونه\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\naya\Desktop\کازخونه\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\naya\Desktop\کازخونه\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\naya\Desktop\کازخونه\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\naya\Desktop\کازخونه\ATM\obj\Debug\net6.0\ref\ATM.dll
+C:\Users\naya\Desktop\ATM\bin\Debug\net6.0\ATM.exe
+C:\Users\naya\Desktop\ATM\bin\Debug\net6.0\ATM.deps.json
+C:\Users\naya\Desktop\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+C:\Users\naya\Desktop\ATM\bin\Debug\net6.0\ATM.dll
+C:\Users\naya\Desktop\ATM\bin\Debug\net6.0\ATM.pdb
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.dll
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\refint\ATM.dll
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.pdb
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+C:\Users\naya\Desktop\ATM\obj\Debug\net6.0\ref\ATM.dll
